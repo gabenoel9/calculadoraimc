@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
             val peso = edtpeso.text
             val altura = edtaltura.text
             println ("foda-se"+altura +peso)
+
         }
     }
 }
